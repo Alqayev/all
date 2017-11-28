@@ -1,0 +1,36 @@
+.navbar-inverse{border-radius: 0;margin-bottom: 0;}
+#left_bar{margin-top:0;background-color: #fffef8;height: 100%;padding: 10px;box-shadow: 0 0 10px rgba(0,0,0,0.5);}
+.btn-outline {
+    background-color: transparent;
+    color: inherit;
+    transition: all .5s;
+}
+
+.btn-primary.btn-outline {
+    color: #428bca;
+    max-width: 160px;
+}
+
+
+
+.btn-primary.btn-outline:hover
+{
+    color: #fff;
+}
+
+.bonucClass{
+    display: inline-block;
+    width: 240px;
+}
+.forms-controls{
+    margin-left: 20px;
+    width: 150px;
+}
+.menuButtonDesign{
+     margin-left: 42px;
+    width: 182px;
+    margin-top: 26px;
+    height: 49px;
+    color: darkgoldenrod;
+    background-color: azure;
+}

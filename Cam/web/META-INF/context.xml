@@ -1,0 +1,15 @@
+<Context>
+    <Resource
+            name="jdbc/Cam"
+            auth="Container"
+            type="javax.sql.DataSource"
+            driverClassName="com.mysql.jdbc.Driver"
+            url="jdbc:mysql://localhost:3306/cambalkon"
+            username="root"
+            password="1234"
+            maxActive="20"
+            minIdle="0"
+            maxIdle="8"
+            maxWait="10000"
+    />
+</Context>

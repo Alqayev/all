@@ -1,0 +1,15 @@
+<Context>
+    <Resource
+            name="jdbc/kafkaztikinti"
+            auth="Container"
+            type="javax.sql.DataSource"
+            driverClassName="com.mysql.jdbc.Driver"
+            url="jdbc:mysql://localhost:3306/kafkaztikinti"
+            username="root"
+            password="1234"
+            maxActive="100"
+            maxIdle="30"
+            maxWait="10000"
+            minIdle="0"
+    />
+</Context>

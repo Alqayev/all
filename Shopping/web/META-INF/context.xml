@@ -1,0 +1,15 @@
+<Context>
+    <Resource
+            name="jdbc/Shopping"
+            auth="Container"
+            type="javax.sql.DataSource"
+            driverClassName="oracle.jdbc.driver.OracleDriver"
+            url="jdbc:oracle:thin:@localhost:1521:orcl"
+            username="C##BIGDATA"
+            password="Afd1854"
+            maxActive="20"
+            minIdle="0"
+            maxIdle="8"
+            maxWait="10000"
+    />
+</Context>

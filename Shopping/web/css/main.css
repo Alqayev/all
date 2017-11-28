@@ -1,0 +1,49 @@
+.registrDesign,.emailLoginDesign{
+
+    width: 208px;
+}
+.labelDesign{
+    padding:9px 5px;
+}
+.menu-button-design{
+    margin-left: 47px;
+    margin-top: 37px;
+    width: 222px;
+    height: 50px;
+    background-color: blueviolet;
+    color: beige;
+
+}
+.menus-buttons-designs{
+    margin-left: 47px;
+    margin-top: 37px;
+    width: 222px;
+    height: 50px;
+    background-color: blueviolet;
+    color: beige;
+
+}
+.form-control{
+
+    width: 196px;
+    margin-bottom: 34px;
+}
+.forms-controls{
+    width: 196px;
+    margin-bottom: 34px;
+    margin-left: 187px;
+}
+.edit-list{
+    margin-bottom: 31px;
+    width: 197px;
+    height: 30px;
+}
+
+.bonucClass{
+    width: 210px;
+    margin-bottom: 41px;
+}
+.forms-controls{
+    margin-left: 20px;
+    width: 150px;
+}
